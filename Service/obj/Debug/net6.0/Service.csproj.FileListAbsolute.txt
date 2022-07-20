@@ -1,0 +1,17 @@
+D:\sourceCode\C#\Nba\NbaApi\Service\bin\Debug\net6.0\Service.deps.json
+D:\sourceCode\C#\Nba\NbaApi\Service\bin\Debug\net6.0\Service.dll
+D:\sourceCode\C#\Nba\NbaApi\Service\bin\Debug\net6.0\Service.pdb
+D:\sourceCode\C#\Nba\NbaApi\Service\bin\Debug\net6.0\DAL.dll
+D:\sourceCode\C#\Nba\NbaApi\Service\bin\Debug\net6.0\Model.dll
+D:\sourceCode\C#\Nba\NbaApi\Service\bin\Debug\net6.0\DAL.pdb
+D:\sourceCode\C#\Nba\NbaApi\Service\bin\Debug\net6.0\Model.pdb
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.dll
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\refint\Service.dll
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\Service.pdb
+D:\sourceCode\C#\Nba\NbaApi\Service\obj\Debug\net6.0\ref\Service.dll
